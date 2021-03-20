@@ -1,0 +1,19 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 27
+
+## Media
+
+### Title
+panorama_596440A7_500A_2AB9_41D0_81DB48EF634E.label = m6.Denoiser
+panorama_59644974_500A_3B9F_41C5_99EDBDA8A63C.label = m4.Denoiser
+panorama_5964756D_500A_2B89_41D2_0B1B040F47C9.label = m3.Denoiser
+panorama_59658441_500A_29F9_41A9_18103D67DC03.label = m7.Denoiser
+panorama_59658D0D_500A_3B88_41CF_D368450DA222.label = m5.Denoiser
+panorama_597BB166_500A_2BBB_41CF_E7C17D28543F.label = m2.Denoiser.Denoiser.Denoiser
+panorama_5B1B0958_500A_DB97_41CC_F0E88CA1A87A.label = m1.Denoiser.Denoiser
