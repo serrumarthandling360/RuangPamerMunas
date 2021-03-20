@@ -5,11 +5,13 @@
 ### Description
 
 ### Title
-tour.name = Untitled 27
+tour.name = Ruang Pamer Munas
 
 ## Media
 
 ### Title
+panorama_43C06E1D_503A_D989_41D0_9C369A13E1E7.label = GS__6353
+panorama_44BCC6B4_500A_769F_41D2_4E89973F56F1.label = R0011039
 panorama_596440A7_500A_2AB9_41D0_81DB48EF634E.label = m6.Denoiser
 panorama_59644974_500A_3B9F_41C5_99EDBDA8A63C.label = m4.Denoiser
 panorama_5964756D_500A_2B89_41D2_0B1B040F47C9.label = m3.Denoiser
